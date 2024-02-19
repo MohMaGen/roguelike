@@ -1,0 +1,20 @@
+# ninja log v5
+3	171	1708327270418985163	target/example_2	7e4ab8d24bc7d59e
+3	167	1708327270412985163	target/example_1	984be447d28dd1fa
+2136	2265	1708268689341089596	external/ecs_lib/ecs/libecs.so	beb0cc6c774a29d5
+1	2135	1708268689203089602	external/ecs_lib/ecs/CMakeFiles/ecs.dir/src/world_container.cpp.o	e16efea14704f539
+3	155	1708327270401985164	target/example_3	d27b887ab314b452
+1	2055	1708268689124089606	external/ecs_lib/ecs/CMakeFiles/ecs.dir/src/world.cpp.o	819b77ad2d13395e
+1	1735	1708268688805089619	external/ecs_lib/examples/CMakeFiles/example_2.dir/example_2/main.cpp.o	5a8c4ffcafba9261
+2	1275	1708329049196909700	code/vulkan_try/CMakeFiles/vulkan_try.dir/src/main.cpp.o	d98447faa40d7eca
+1	1658	1708268688728089622	external/ecs_lib/examples/CMakeFiles/example_1.dir/example_1/main.cpp.o	2b5fda6d5a17d257
+3	101	1708329120284906684	target/release/bin/vulkan_try	f6d7df0a3dcf9b9a
+2	1067	1708268688139089647	external/ecs_lib/examples/CMakeFiles/example_3.dir/example_3/main.cpp.o	e68c920b6196673e
+1	30	1708329126962906400	build.ninja	bf563ddb04426fc9
+1275	1372	1708329049299909695	target/bin/vulkan_try	706adfef7990e40e
+2	1292	1708329130956906231	code/vulkan_try/CMakeFiles/vulkan_try.dir/src/main.cpp.o	ed2bf963004b3700
+1292	1389	1708329131060906226	target/debug/bin/vulkan_try	b82282f374dbb15a
+3	155	1708329152002905338	target/example_3	d27b887ab314b452
+3	166	1708329152011905338	target/debug/bin/vulkan_try	b82282f374dbb15a
+2	167	1708329152012905338	target/example_1	984be447d28dd1fa
+3	172	1708329152018905337	target/example_2	7e4ab8d24bc7d59e
